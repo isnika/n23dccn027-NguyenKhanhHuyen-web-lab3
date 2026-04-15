@@ -1,0 +1,20 @@
+{
+  "name": "n23dccn027-nguyenkhanhhuyen-web-lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnika/n23dccn027-NguyenKhanhHuyen-web-lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isnika/n23dccn027-NguyenKhanhHuyen-web-lab3/issues"
+  },
+  "homepage": "https://github.com/isnika/n23dccn027-NguyenKhanhHuyen-web-lab3#readme"
+}
